@@ -88,5 +88,5 @@ exclude_generator:
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: github
-  repository: github:luftreich/luftreich.github.io.git
+  repository: git@github.com:luftreich/luftreich.github.com.git
   branch: master
