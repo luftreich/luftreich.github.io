@@ -48,7 +48,7 @@ Use PhoenixSuit  < nand/PhoenixSuit1.0.6.rar >
 
 ## STEP 3 -- 相关修改，目前该步骤必需!
 * a. 请确认前面两个步骤已经完成
-* b. 连接HDMI显示器、键盘、鼠标，插入SD卡，启动设备
+* b. 连接VGA显示器、键盘、鼠标，插入SD卡，启动设备
 * c. login to board
 
      user:     root
