@@ -25,7 +25,7 @@
 
 ## 完
 <p>
-<a href="https://github.com/OrdinaryDude/elastic-core-maven/blob/master/UPD1.md"><img src="http://www.dirk-loss.de/ssh-port-forwarding.png" alt="XEL"></a>
+<a href="https://github.com/OrdinaryDude/elastic-core-maven/blob/master/UPD1.md"><img src="https://github.com/luftreich/luftreich.github.io/raw/master/misc/xel/xel_testnet.png" alt="XEL"></a>
 </p>
 
  
