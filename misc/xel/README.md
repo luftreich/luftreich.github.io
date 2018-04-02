@@ -5,7 +5,7 @@
 ## 1. 安装docker
  * ` curl -fsSL get.docker.com -o- | sh -`
 ## 2. 安装节点
- * `git clone https://github.com/OrdinaryDude/xel-core-docker.git ; cd cd xel-docker && ./build.sh; `
+ * `git clone https://github.com/OrdinaryDude/xel-docker.git ; cd cd xel-docker && ./build.sh; `
  * `./run_foreground.sh # 运行`
 ## 3. 建立测试账户,二选一
  * 本地: http://localhost:16876 # 
